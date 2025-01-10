@@ -18,7 +18,7 @@ public class TestMethodInfoListener implements ITestListener {
         }
     }
 
-    // Другие методы интерфейса можно оставить пустыми
+    //Другие методы
     @Override
     public void onTestSuccess(ITestResult result) {}
 
